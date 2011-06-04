@@ -1,0 +1,13 @@
+h1. CodeIgniter KeywordSuggest API
+
+This library is under development.
+
+* Author: "Julian Magnone"
+
+h2. Description
+
+This library allows you to use Google Suggest from your CodeIgniter applications. As you may know, Google Suggest is also used in browser toolbars like
+Firefox, Chrome, Internet Explorer to suggest searches based on user's input.
+
+You can use this library to find keywords/keyphrases for SEO purposes and many other useful applications.
+
